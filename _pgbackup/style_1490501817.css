@@ -28,22 +28,15 @@ h4
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    align-content: left;
 }
 
-.textBox
-{
-    max-width: 720px;
-    text-align: left;
+.textBox {
+	max-width:720px;
+	text-align:left;
 }
 
 .small-spacer
 {
     min-height: 30px;
-}
-
-.containerMaxWidth
-{
-    max-width: 720px;
 }
 

@@ -28,7 +28,7 @@ h4
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    align-content: left;
+    align-content:left;
 }
 
 .textBox
@@ -40,10 +40,5 @@ h4
 .small-spacer
 {
     min-height: 30px;
-}
-
-.containerMaxWidth
-{
-    max-width: 720px;
 }
 
