@@ -3,8 +3,7 @@
 body
 {
     text-align: center;
-    margin-left: 5pt;
-    margin-right: 5pt;
+    
 }
 
 p
@@ -22,16 +21,6 @@ h1
 h4
 {
     font-family: 'Open Sans', sans-serif;
-}
-
-.image{
-    position:relative;
-    overflow:hidden;
-    min-height: 360px;
-}
-.image img{
-    position:absolute;
-    margin-left: -15px
 }
 
 .textBox
