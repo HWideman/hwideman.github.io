@@ -1,0 +1,97 @@
+
+
+body
+{
+    text-align: center;
+    margin-right: 9px;
+    margin-left: 9px;
+}
+
+p
+{
+    text-indent: 25px;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1
+{
+    font-family: 'Open Sans', sans-serif;
+}
+
+h4
+{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.image{
+    position:relative;
+    overflow:hidden;
+    min-height: 360px;
+}
+.image img{
+    position:absolute;
+    margin-left: -15px
+}
+
+.textBox
+{
+    max-width: 720px;
+    text-align: left;
+}
+
+.small-spacer
+{
+    min-height: 30px;
+}
+
+.containerMaxWidth
+{
+    max-width: 720px;
+}
+
+.previewSize{
+  width: 360px;
+  height: 640px;
+}
+
+.wkncPreviewSize{
+  width: 720px;
+  height: 307px;
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen 
+and (max-width : 540px) {
+/* Styles */
+.containerMaxWidth
+{
+    max-width: 350px;
+}
+.wkncPreviewSize{
+  width: 350px;
+  height: 140px;
+}
+
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen 
+and (max-width : 320px) {
+/* Styles */
+.containerMaxWidth
+{
+    max-width: 310px;
+}
+.previewSize{
+  width: 180px;
+  height: 320px;
+}
+.wkncPreviewSize{
+  width: 310px;
+  height: 110px;
+}
+
+}
+
+
