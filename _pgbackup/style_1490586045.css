@@ -1,0 +1,52 @@
+
+
+body
+{
+    text-align: center;
+    margin-left: 5pt;
+    margin-right: 5pt;
+}
+
+p
+{
+    text-indent: 25px;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1
+{
+    font-family: 'Open Sans', sans-serif;
+}
+
+h4
+{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.image{
+    position:relative;
+    overflow:hidden;
+    min-height: 360px;
+}
+.image img{
+    position:absolute;
+    margin-left: -15px
+}
+
+.textBox
+{
+    max-width: 720px;
+    text-align: left;
+}
+
+.small-spacer
+{
+    min-height: 30px;
+}
+
+.containerMaxWidth
+{
+    max-width: 720px;
+}
+

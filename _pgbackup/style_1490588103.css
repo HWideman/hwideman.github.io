@@ -10,7 +10,7 @@ body
 p
 {
     text-indent: 25px;
-    font-size: 18px;
+    font-size: 16px;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -66,10 +66,10 @@ and (max-width : 540px) {
 /* Styles */
 .containerMaxWidth
 {
-    max-width: 350px;
+    max-width: 360px;
 }
 .wkncPreviewSize{
-  width: 350px;
+  width: 360px;
   height: 140px;
 }
 
@@ -81,14 +81,14 @@ and (max-width : 320px) {
 /* Styles */
 .containerMaxWidth
 {
-    max-width: 310px;
+    max-width: 320px;
 }
 .previewSize{
   width: 180px;
   height: 320px;
 }
 .wkncPreviewSize{
-  width: 310px;
+  width: 320px;
   height: 110px;
 }
 
